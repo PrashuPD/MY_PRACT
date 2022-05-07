@@ -1,0 +1,44 @@
+#sam {
+    background-color: #29a9df;
+    height: 500px;
+    width: 23%;
+    float: left;
+    overflow:scroll;
+    margin-left: 2%
+  }
+
+  #amm {
+    background-color: #b38152;
+    height: 500px;
+    width: 23%;
+    float: left;
+    overflow:scroll;
+    margin-left: 2%
+  }
+
+  #wq {
+    background-color: #f16529;
+    height: 500px;
+    width: 23%;
+    float: left;
+    overflow:scroll;
+    margin-left: 2%
+  }
+
+  #ys {
+    background-color: #ed4f47;
+    height: 500px;
+    width: 23%;
+    float: left;
+    overflow:scroll;
+    margin-left: 2%
+  }
+
+  .qqq{
+      text-align: center;
+  }
+
+  #maincard{
+      display: inline-block;
+      overflow: scroll;
+  }
